@@ -1,5 +1,5 @@
 //FOR TUTORIAL WATCH DIY TECH TUBE ON  YOUTUBE
-// https://www.youtube.com/watch?v=_yT3qUGiSOk
+// https://youtu.be/BCWfGqMT0_k
 #include <Servo.h>. 
 // Defines Tirg and Echo pins of the Ultrasonic Sensor
 const int trigPin = 10;
